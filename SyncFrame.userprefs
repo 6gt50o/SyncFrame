@@ -1,0 +1,73 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SyncFrame/Sample/Scripts/TestKeyAgent.cs">
+    <Files>
+      <File FileName="Assets/SyncFrame/Sample/Scripts/TestKeyAgent.cs" Line="49" Column="16" />
+      <File FileName="Assets/SyncFrame/RecordSync/SFRecorderAgent.cs" Line="12" Column="6" />
+      <File FileName="Assets/SyncFrame/RecordSync/SFRecorderMgrExt.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/Core/SFMgr.cs" Line="13" Column="25" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/TestCarControl.cs" Line="41" Column="27" />
+      <File FileName="Assets/SyncFrame/Core/SFActionsAgent.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/RecordSync/SFTransformMgrExt.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/RecordSync/SFRecorderActionSyncMachine.cs" Line="34" Column="3" />
+      <File FileName="Assets/SyncFrame/RecordSync/SFTransformActionsAgent.cs" Line="97" Column="4" />
+      <File FileName="Assets/SyncFrame/Core/SFAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/CarRecorderSimulater.cs" Line="13" Column="83" />
+      <File FileName="Assets/SyncFrame/RecordSync/SFRecorderAgentWithTransformActionsSupport.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/RecordSync/SFActionsJson.cs" Line="27" Column="6" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/Test.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/UDPSync/SFUDPActionSyncMachine.cs" Line="170" Column="1" />
+      <File FileName="Assets/SyncFrame/UDPSync/SFUDPSyncMgrExt.cs" Line="18" Column="4" />
+      <File FileName="Assets/SyncFrame/UDPSync/UDPConnorExt.cs" Line="115" Column="21" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/TestRoom.cs" Line="69" Column="24" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/TestUnnor.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/UDPSync/UDPRoom.cs" Line="56" Column="1" />
+      <File FileName="Assets/SyncFrame/UDPSync/UDPConnor.cs" Line="178" Column="14" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/TestAgentCar.cs" Line="37" Column="37" />
+      <File FileName="Assets/SyncFrame/UDPSync/SFUDPSyncMsg.cs" Line="32" Column="22" />
+      <File FileName="Assets/SyncFrame/UDPSync/UDPRoomMsg.cs" Line="23" Column="2" />
+      <File FileName="Assets/SyncFrame/Core/SFActionSyncMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/TestRemoteCarControl.cs" Line="22" Column="34" />
+      <File FileName="Assets/SyncFrame/Sample/Scripts/TestCarAgent.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/Core/SFLocalActionSyncMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/Core/SFRandomMaker.cs" Line="1" Column="1" />
+      <File FileName="Assets/SyncFrame/UDPSync/SFUDPSyncAgent.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SyncFrame" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="SyncFrame" expanded="True">
+                <Node name="Core" expanded="True" />
+                <Node name="RecordSync" expanded="True" />
+                <Node name="Sample" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="TestKeyAgent.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="UDPSync" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="SyncFrame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/benny/work/Unity/SyncFrame/Assets/SyncFrame/RecordSync/SFRecorderActionSyncMachine.cs" line="61" column="1" />
+      <Breakpoint file="/Users/benny/work/Unity/SyncFrame/Assets/SyncFrame/UDPSync/UDPConnor.cs" line="157" column="1" />
+      <Breakpoint file="/Users/benny/work/Unity/SyncFrame/Assets/SyncFrame/UDPSync/UDPConnor.cs" line="152" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
